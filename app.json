@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Heart2Heart",
+    "slug": "Heart2Heart",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Heart2Heart"
+}
