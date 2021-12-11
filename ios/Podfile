@@ -18,4 +18,12 @@ target 'Heart2Heart' do
   #     flipper_post_install(installer)
   #   end
   # end
+
+
+
+
+  pod 'react-native-image-picker', :path => '../node_modules/react-native-image-picker'
+
+  pod 'RNCMaskedView', :path => '../node_modules/@react-native-community/masked-view'
+
 end
